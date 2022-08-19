@@ -1,2 +1,3 @@
 VMware.HorizonClient
-Discord
+VideoLAN.VLC
+Discord.Discord
