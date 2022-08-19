@@ -1,2 +1,2 @@
 VMware.HorizonClient
-Spotify
+Spotify.Spotify
