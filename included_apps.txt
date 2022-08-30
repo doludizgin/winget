@@ -1,3 +1,4 @@
 VMware.HorizonClient
 VideoLAN.VLC
 7zip.7zip
+Microsoft.VisualStudioCode
